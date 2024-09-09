@@ -1,0 +1,11 @@
+este arhivo contiene codigo para los items de la segunda entrega
+--faltan algunos ptos 
+--hay que definir bien el problema para dejar un trabajo limpio
+---hay que ver que columnas se pueden sacar mas
+--hay que traducir las columnas
+--se podrian reducir los nombres finales
+--se podria reducir proporcionalmente los datos numericos 
+
+
+---el dataset se creo a partir de otro solo con 3 paises
+---
