@@ -1,5 +1,7 @@
 # ISPC - Practica Profesionalizante I (2024)
 
+## Profesor: Lic. Carlos Charletti
+
 ## Equipo: Data Voyagers
 
 - [URZAGASTE, María Gisela](https://github.com/Mar-Urzag)
