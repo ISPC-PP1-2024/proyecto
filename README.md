@@ -22,3 +22,6 @@ Este proyecto propone el desarrollo de un modelo predictivo que permita optimiza
 
 Link Codigo:
 https://github.com/ISPC-PP1-2024/proyecto/blob/main/codigo/2%20entrega_primera-parte/FINAL%20PARA%20ENTREGAR-LISTO/Resolucion_2Entrega_suplyChain-final.ipynb
+
+link html:
+https://github.com/ISPC-PP1-2024/proyecto/blob/main/codigo/2%20entrega_primera-parte/FINAL%20PARA%20ENTREGAR-LISTO/Resolucion_2Entrega_suplyChain-final.html
