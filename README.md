@@ -27,3 +27,5 @@ https://github.com/ISPC-PP1-2024/proyecto/blob/main/codigo/2%20entrega_primera-p
 
 Link Reporte
 https://docs.google.com/document/d/1ady0tbaubSgM9z8w5pemH5kdQ_15izTXH1d0MWv6PCQ/edit
+
+PDF: https://github.com/ISPC-PP1-2024/proyecto/blob/main/Entrega%202%20-%20Data%20Voyagers.pdf
