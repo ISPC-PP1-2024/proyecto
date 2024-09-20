@@ -1,0 +1,4 @@
+clasificacion binaria
+clustering
+agrupacion
+cnn-lsmt
