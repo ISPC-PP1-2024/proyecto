@@ -4,7 +4,6 @@
 
 ## Equipo: Data Voyagers
 
-- [URZAGASTE, María Gisela](https://github.com/Mar-Urzag)
 - [PERALTA, María Laura](https://github.com/Lalita635)
 - [LEDEZMA, Mariano](https://github.com/mledezma2022)
 - [BADIN, María Paula](https://github.com/paulabadin)
