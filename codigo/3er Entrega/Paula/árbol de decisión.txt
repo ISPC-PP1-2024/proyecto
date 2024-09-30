@@ -1,0 +1,23 @@
+árbol de decisión
+
+Clasificación del Estado de Entrega utilizando Árboles de Decisión.
+
+Descripción: El objetivo es predecir el estado de entrega de los pedidos basándose en diversas características, como los días de envío reales, el riesgo de entrega tardía y la categoría del producto. Se entrenaron modelos de árboles de decisión y se ajustaron los hiperparámetros para mejorar el rendimiento del modelo.
+
+Datos:
+El dataset contiene 28 columnas con información relacionada con el estado de entrega de los pedidos.
+Variables como el RiesgoEntregaTardia, DiasEnvio(Real) y Categoria se usaron como predictores, mientras que la variable objetivo es el EstadoEntrega.
+
+Metodología:
+- Preprocesamiento: Se convirtieron las variables categóricas a tipo 'category' y se crearon variables dummy.
+- Modelos: Se entrenaron dos modelos de árbol de decisión:
+Un modelo base sin ajuste de hiperparámetros.
+Un modelo optimizado utilizando GridSearchCV.
+- Evaluación: Se evaluó el rendimiento utilizando precisión, recall, f1-score y una matriz de confusión.
+
+Resultados:
+El modelo optimizado mostró una mejora en la precisión del 98.39% comparado con el modelo base.
+La validación cruzada confirmó la robustez del modelo con una precisión promedio del 97.79%.
+Se visualizó la importancia de las características para ayudar a la interpretación del modelo.
+
+Conclusión: El ajuste de hiperparámetros mejoró el rendimiento del modelo, haciendo que sea más generalizable y robusto frente a los datos de prueba. El uso de validación cruzada refuerza la confianza en la estabilidad del modelo para su uso en producción.
