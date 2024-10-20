@@ -33,3 +33,13 @@ PDF: https://github.com/ISPC-PP1-2024/proyecto/blob/main/Entrega%202%20-%20Data%
 Trello: https://trello.com/b/ZxQZufSW/pp1cdia-2024
 
 Drive: https://drive.google.com/drive/folders/1U8boiPAs_N5C3VFESC_k5qS4x5uki8-H?usp=drive_link
+
+
+******************************************************************
+
+# Tercera Entrega - 20-10-2024
+CODIGO: https://github.com/ISPC-PP1-2024/proyecto/blob/main/codigo/3er%20Entrega/3EntregaFinal/3Entrega_final.ipynb
+PDF: https://github.com/ISPC-PP1-2024/proyecto/blob/main/codigo/3er%20Entrega/3EntregaFinal/3Entrega_final.pdf
+HTML: https://github.com/ISPC-PP1-2024/proyecto/blob/main/codigo/3er%20Entrega/3EntregaFinal/3Entrega_final.html
+
+INFORME: https://docs.google.com/document/d/1EmsKFKKROZOmeOagMk60VHG1pzKYCscJlaUwXkCT08M/edit?tab=t.0
