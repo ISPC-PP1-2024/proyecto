@@ -19,16 +19,6 @@ Las empresas enfrentan desafíos significativos en la gestión de sus cadenas de
 Este proyecto propone el desarrollo de un modelo predictivo que permita optimizar la gestión de la cadena de suministro. Utilizando técnicas avanzadas de ciencia de datos con modelos de machine learning que permitan generar información adecuada y oportuna en relación a la demanda, optimizar el inventario y mejorar la eficiencia en la distribución de productos.
 
 
-Link Codigo:
-https://github.com/ISPC-PP1-2024/proyecto/blob/main/codigo/2%20entrega_primera-parte/FINAL%20PARA%20ENTREGAR-LISTO/Resolucion_2Entrega_suplyChain-final%20-%20conGraficos.ipynb
-link html:
-https://github.com/ISPC-PP1-2024/proyecto/blob/main/codigo/2%20entrega_primera-parte/FINAL%20PARA%20ENTREGAR-LISTO/Resolucion_2Entrega_suplyChain-final.html
-
-Link Reporte
-https://docs.google.com/document/d/1ady0tbaubSgM9z8w5pemH5kdQ_15izTXH1d0MWv6PCQ/edit
-
-PDF: https://github.com/ISPC-PP1-2024/proyecto/blob/main/Entrega%202%20-%20Data%20Voyagers.pdf
-
 ---------------------------------------------------------
 Trello: https://trello.com/b/ZxQZufSW/pp1cdia-2024
 
